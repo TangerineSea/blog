@@ -13,8 +13,8 @@ timezone: 'Asia/Shanghai' # 时区
 
 # 网址
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://dzhblog.com/blog # url
-root: /blog/  # 网站根目录
+url: http://dzhblog.com # url
+root:  # 网站根目录
 permalink: :year/:month/:day/:title/  # 文章的 永久链接 格式
 permalink_defaults: # 永久链接中各部分的默认值
 pretty_urls:  # 改写 permalink 的值来美化 URL
